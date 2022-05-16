@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zeekliviu
-- 👀 I’m interested in code and girls
-- 🌱 I’m currently learning Python and Git
+- 👀 I’m interested in maths, informathics, philosophy, literature and sex
+- 🌱 I’m currently learning Python, C/C++ and Git
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me Victor Petrini#0021 (Discord)
+- 📫 How to reach me Zeek Liviu#4044 (Discord)
 
 <!---
 zeekliviu/zeekliviu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
